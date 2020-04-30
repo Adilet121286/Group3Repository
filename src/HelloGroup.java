@@ -6,6 +6,8 @@ public class HelloGroup {
         System.out.println("Hi. Everyone.This line is added by: RAHMAN");
                 
         System.out.println("Hello group-3pu , Test 1 GitHub ");
+        
+        System.out.println("Great start! Go Group-3 SDET!"); 
 
         
 
