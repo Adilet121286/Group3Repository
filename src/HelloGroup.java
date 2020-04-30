@@ -4,7 +4,14 @@ public class HelloGroup {
         System.out.println("Hello Future Group-3 SDET");
         
         System.out.println("Hi. Everyone.This line is added by: RAHMAN");
+
         System.out.println("Hello Everyone. This line added by: Amir");
 
-    }
+                
+        System.out.println("Hello group-3pu , Test 1 GitHub ");
+        
+        System.out.println("Great start! Go Group-3 SDET!"); 
+
+        
+   }
 }
